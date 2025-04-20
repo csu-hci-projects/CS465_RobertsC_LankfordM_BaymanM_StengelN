@@ -1,0 +1,1 @@
+ParticipantNumber;FinishedCondition;ObjectShape;Direction;Size;VisualGuide;ID
